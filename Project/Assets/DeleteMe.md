@@ -1,0 +1,1 @@
+Delete the page anytime. It is just here to make Git create the folder
